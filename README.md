@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Anthony! 👋
 
-<!--
-**AntB88-worx/AntB88-worx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub
 
-Here are some ideas to get you started:
+! I am a **Computer Science student at the University of Phoenix**, based in the **Dallas-Fort Worth (DFW) metroplex**. Having already completed my Associate's degree, I am fully focused on mastering core software engineering concepts, system logic, and cloud architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Goals & Vision
+I am focused on building deep, hands-on engineering experience within the enterprise tech industry. I want to master how complex, scalable systems operate, contribute to high-performing engineering teams, and leverage modern cloud architecture to solve complex business problems.
+
+### 🛠️ What I am Working On Right Now
+- 📚 **Academic Foundations:** Deep diving into computational thinking and logical workflows via **CSS 200T**.
+- ☁️ **Cloud Infrastructure:** Self-studying the fundamentals of cloud computing (AWS).
+- 🐍 **Language Mastery:** Transitioning foundational logic into clean, functional code (Python/Java).
+
+### 📍 Local to DFW
+I am actively looking to connect with fellow developers, tech students, and mentors in the Dallas-Fort Worth area. 
+
+---
+
+*"The best way to predict the future is to invent it."* 
