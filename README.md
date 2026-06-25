@@ -1,4 +1,4 @@
-# Hi there, I'm Anthony! 👋
+# Hi there, I'm Anthony! 👋🏾
 
 Welcome to my GitHub
 
