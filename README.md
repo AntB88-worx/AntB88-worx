@@ -7,9 +7,9 @@ Based in the Dallas-Fort Worth (DFW) Metroplex, I bridge the gap between complex
 
 ### 🛠️ Tech Stack & Tools
 
-![Python](https://shields.io) 🐍
-![Java](https://shields.io) ☕
-![AWS](https://shields.io) ☁️
+* 🐍 Python
+* ☕ Java
+* ☁️ AWS
 
 
 ---
