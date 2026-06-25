@@ -2,10 +2,10 @@
 
 Welcome to my GitHub
 
-! I am a **Computer Science student at the University of Phoenix**, based in the **Dallas-Fort Worth (DFW) metroplex**. Having already completed my Associate's degree, I am fully focused on mastering core software engineering concepts, system logic, and cloud architecture.
+I am a **Computer Science student at the University of Phoenix**, based in the **Dallas-Fort Worth (DFW) metroplex**. Having already completed my Associate's degree, I am fully focused on mastering core software engineering concepts, system logic, and cloud architecture.
 
 ### 🚀 My Goals & Vision
-I am focused on building deep, hands-on engineering experience within the enterprise tech industry. I want to master how complex, scalable systems operate, contribute to high-performing engineering teams, and leverage modern cloud architecture to solve complex business problems.
+I am currently building deep, hands-on engineering experience within the enterprise tech industry. I want to master how complex, scalable systems operate, contribute to high-performing engineering teams, and leverage modern cloud architecture to solve complex business problems.
 
 ### 🛠️ What I am Working On Right Now
 - 📚 **Academic Foundations:** Deep diving into computational thinking and logical workflows via **CSS 200T**.
