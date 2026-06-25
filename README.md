@@ -10,8 +10,7 @@ Based in the Dallas-Fort Worth (DFW) Metroplex, I bridge the gap between complex
 ![Python](https://shields.io)
 ![Java](https://shields.io)
 ![AWS](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+
 
 ---
 
