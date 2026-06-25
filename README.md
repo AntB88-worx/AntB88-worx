@@ -25,7 +25,7 @@ Based in the Dallas-Fort Worth (DFW) Metroplex, I bridge the gap between complex
 ### 🤝 Connect With Me
 I am actively looking to collaborate on open-source projects, build regional developer networks, and connect with tech mentors in the DFW area. 
 
-🔗 **[Connect with me on LinkedIn](linkedin.com/in/anthony-benn-829814315)**
+🔗 **[Connect with me on LinkedIn](www.linkedin.com/in/anthony-benn-829814315)**
 📧 **[Email Me](mailto:antbenn88@gmail.com)**
 
 *"The best way to predict the future is to invent it."*
